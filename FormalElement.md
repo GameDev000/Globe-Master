@@ -107,4 +107,33 @@
   <li>במיין־גיים – חוויה אישית עם לוח מובילים שבועי.</li>
 </ul>
 
+<hr>
+
+<h2> סיום והמשכיות</h2>
+<p>בסיום המשחק השחקן יכבוש את הגלובוס כחלק מתהליך אישי, במטרה לעודד את המטופל להמשיך ביעדים.</p>
+
+<hr>
+<div dir="rtl" lang="he">
+<h2> סקירת משחקים קיימים</h2>
+<ul>
+  <div dir="rtl" lang="he">
+  <li>
+    <strong>GeoGuessr</strong> – זיהוי מקומות תיירותיים מרכזיים בעולם; נכנסים לרחוב בסגנון Google Earth וממקמים נעץ על המפה.<br>
+    חסרים: כניסה מהחלל, מנגנון "כבישה" של יעדים, תמונות יעד מעוררות עניין לכל מדינה, ורכיב תחרות אונליין כפי שמוגדר כאן.<br>
+    <a href="https://play.google.com/store/search?q=Geoguesser&c=apps">קישור</a>
+  </li>
+  <li>
+    <strong>Seterra Geography</strong> – משחק לימוד מדינות וערים במפה דו־ממדית.<br>
+    חסר: רכיב תלת־ממדי, פיצ'ר תחרותי, ומרכיב תיירותי חזותי.<br>
+        <a href="https://play.google.com/store/search?q=Seterra%20geography&c=apps">קישור</a>
+
+  </li>
+  <li>
+    <strong>Flags &amp; Capitals of the World</strong> – טריוויה של דגלים וערי בירה, מרמת מוכרים ועד קשים.<br>
+    חסר: חוויית כבישה, תהליך רציף לכיבוש הגלובוס, תמונות יעדים ולמידה חזותית/התמצאות כפי שנדרש כאן.<br>
+        <a href="https://apps.apple.com/il/app/flags-capitals-of-the-world/id1539501646?l=he">קישור</a>
+
+  </li>
+</ul>
+
 </div>
