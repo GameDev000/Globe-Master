@@ -23,5 +23,5 @@
   <li>טליה חורש – ריפוי בעיסוק</li>
 </ul>
 
-![פרה עיוורת](Gemini_Generated_Image_vxopiwvxopiwvxop.png)
+![גלובוס מאסטר](Gemini_Generated_Image_vxopiwvxopiwvxop.png)
 </div>
