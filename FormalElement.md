@@ -121,25 +121,52 @@
     <strong>GeoGuessr</strong> – זיהוי מקומות תיירותיים מרכזיים בעולם; נכנסים לרחוב בסגנון Google Earth וממקמים נעץ על המפה.<br>
     חסרים: כניסה מהחלל, מנגנון "כבישה" של יעדים, תמונות יעד מעוררות עניין לכל מדינה, ורכיב תחרות אונליין כפי שמוגדר כאן.<br>
     <a href="https://play.google.com/store/search?q=Geoguesser&c=apps">קישור</a>
-    ![alt text](geogusser.png)
+  <p align="center">
+      <img src="geogusser.png" alt="GeoGuessr" width="400">
+    </p>
 
   </li>
   <li>
     <strong>Seterra Geography</strong> – משחק לימוד מדינות וערים במפה דו־ממדית.<br>
     חסר: רכיב תלת־ממדי, פיצ'ר תחרותי, ומרכיב תיירותי חזותי.<br>
-        <a href="https://play.google.com/store/search?q=Seterra%20geography&c=apps">קישור</a>
-        ![alt text](seterra.png)
+    <a href="https://play.google.com/store/search?q=Seterra%20geography&c=apps">קישור</a>
+    <p align="center">
+      <img src="seterra.png" alt="GeoGuessr" width="400">
+    </p>
 
 
   </li>
   <li>
     <strong>Flags &amp; Capitals of the World</strong> – טריוויה של דגלים וערי בירה, מרמת מוכרים ועד קשים.<br>
     חסר: חוויית כבישה, תהליך רציף לכיבוש הגלובוס, תמונות יעדים ולמידה חזותית/התמצאות כפי שנדרש כאן.<br>
-        <a href="https://apps.apple.com/il/app/flags-capitals-of-the-world/id1539501646?l=he">קישור</a>
-        ![alt text](flags.png)
+    <a href="https://apps.apple.com/il/app/flags-capitals-of-the-world/id1539501646?l=he">קישור</a>
+    <p align="center">
+      <img src="flags.png" alt="GeoGuessr" width="400">
+    </p>
 
 
   </li>
 </ul>
 
 </div>
+
+<hr>
+<div dir="rtl" lang="he">
+
+<h2> ייחודיות המשחק</h2>
+<p>
+מבין הרכיבים הרשמיים שציינו לעיל, המרכיב העיקרי שמייחד את המשחק שלנו הוא 
+<strong>המצב התחרותי</strong> – המאפשר לשחקנים לצבור מטבעות וליצור אינטראקציות חברתיות אמיתיות סביב תוכן המשחק.<br><br>
+כמו כן, קיים מרכיב נוסף שמייחד את המשחק שלנו והוא 
+<strong>האינטראקציה התלת־ממדית עם הגלובוס</strong>, 
+המעניקה לשחקן תחושת הישג אמיתית ומוחשית עם כל כיבוש של מדינה או יבשת חדשה.<br><br>
+בנוסף, ניתן לספק <strong>תוצאה אבחונית</strong> כאשר המטפל צופה במטופל המשחק, 
+ומסוגל להסיק ממנה על תפקודים קוגניטיביים, רמת קשב, גמישות מחשבתית ואסטרטגיות פעולה, 
+ובכך לקבוע את המשך תהליך האבחון והטיפול.<br><br>
+התוצאה לחיי היומיום היא <strong>שיפור ביכולת הקשב המתמשך</strong> לאורך זמן, 
+תרגול של אסטרטגיות לזיהוי וחשיבה, 
+וכן חיזוק מיומנויות של <strong>תפיסה חזותית</strong> – כגון הבחנה בין דמות לרקע והתמצאות במרחב.
+</p>
+
+</div>
+
