@@ -121,17 +121,23 @@
     <strong>GeoGuessr</strong> – זיהוי מקומות תיירותיים מרכזיים בעולם; נכנסים לרחוב בסגנון Google Earth וממקמים נעץ על המפה.<br>
     חסרים: כניסה מהחלל, מנגנון "כבישה" של יעדים, תמונות יעד מעוררות עניין לכל מדינה, ורכיב תחרות אונליין כפי שמוגדר כאן.<br>
     <a href="https://play.google.com/store/search?q=Geoguesser&c=apps">קישור</a>
+    ![alt text](geogusser.png)
+
   </li>
   <li>
     <strong>Seterra Geography</strong> – משחק לימוד מדינות וערים במפה דו־ממדית.<br>
     חסר: רכיב תלת־ממדי, פיצ'ר תחרותי, ומרכיב תיירותי חזותי.<br>
         <a href="https://play.google.com/store/search?q=Seterra%20geography&c=apps">קישור</a>
+        ![alt text](seterra.png)
+
 
   </li>
   <li>
     <strong>Flags &amp; Capitals of the World</strong> – טריוויה של דגלים וערי בירה, מרמת מוכרים ועד קשים.<br>
     חסר: חוויית כבישה, תהליך רציף לכיבוש הגלובוס, תמונות יעדים ולמידה חזותית/התמצאות כפי שנדרש כאן.<br>
         <a href="https://apps.apple.com/il/app/flags-capitals-of-the-world/id1539501646?l=he">קישור</a>
+        ![alt text](flags.png)
+
 
   </li>
 </ul>
